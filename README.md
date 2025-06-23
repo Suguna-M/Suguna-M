@@ -1,4 +1,4 @@
-I'm currently doing my internship my in Elevate labs.
+I'm currently doing my internship in Elevate labs.
 My 1st day task includes Data cleaning, handling nulls, encoding, feature scaling. 
 
 To complete the given task I have done several steps which includes:
